@@ -1,0 +1,7 @@
+[base-configs]
+ocean.size: 100
+predators: 700
+victims: 500
+barriers: 2500
+reproduction.frequency: 3
+predator.hunger.threshold: 51
